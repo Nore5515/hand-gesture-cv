@@ -1,9 +1,12 @@
 // include the librealsense C++ header file
 // #include "../vcpkg/packages/realsense2_arm64-osx/rs.hpp"
 // #include "v"
-#include "../vcpkg/packages/realsense2_arm64-osx/include/librealsense2/rs.hpp"
+#include <../vcpkg/packages/realsense2_arm64-osx/include/librealsense2/rs.hpp>
+// #include <librealsense2/rs.hpp>
 // include OpenCV header file
-#include <opencv2/opencv.hpp>
+// #include "../vcpkg/packages/opencv4_arm64-osx/include/opencv2/opencv_modules.hpp"
+#include <../vcpkg/packages/opencv4_arm64-osx/include/opencv2/opencv.hpp>
+// #include <opencv2/opencv.hpp>
 
 using namespace std;
 // using namespace cv;
