@@ -1,0 +1,3 @@
+/Users/noah/projects/gp/internal/hand-gesture-cv/build/CMakeFiles/HandGestureCV.dir
+/Users/noah/projects/gp/internal/hand-gesture-cv/build/CMakeFiles/edit_cache.dir
+/Users/noah/projects/gp/internal/hand-gesture-cv/build/CMakeFiles/rebuild_cache.dir
